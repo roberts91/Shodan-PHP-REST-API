@@ -1,0 +1,13 @@
+{
+  "name": "scadaexposure/shodan-php-rest-api",
+  "description": "A Universal Form Implementation in PHP",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Shodan": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
