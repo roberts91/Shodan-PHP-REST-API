@@ -6,7 +6,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Shodan": "src/"
+      "Shodan\\": "src/"
     }
   },
   "minimum-stability": "dev"
